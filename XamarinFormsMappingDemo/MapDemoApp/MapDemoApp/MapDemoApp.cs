@@ -19,8 +19,7 @@ namespace MapDemoApp
                 IsShowingUser = true,
                 VerticalOptions = LayoutOptions.FillAndExpand,
                 HorizontalOptions = LayoutOptions.FillAndExpand,
-                MapType = MapType.Street,
-                IsShowingUser = true
+                MapType = MapType.Street
             };
 
             // The root page of your application
