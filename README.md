@@ -1,5 +1,5 @@
 # xamarin-mapping-sample-apps
-Sample apps using mapping controls via Xamarin.Android (Google Play services) and Xamarin.iOS (MapKit) as well as Xamarin.Forms.
+Sample apps using mapping controls via Xamarin.Android (Google Play services) and Xamarin.iOS (MapKit) as well as Xamarin.Forms. The source code of these projects was largely pulled from Xamarin's online documentation - please reference the links at the bottom of this page for more details.
 
 **XamarinMappingDemo** - Contains Xamarin.Android and Xamarin.iOS sample map projects
 **XamarinFormsMappingDemo** - Contains Xamarin.Forms (with Android and iOS support) sample map projects
